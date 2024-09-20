@@ -3,3 +3,27 @@
     padding: 0;
     margin: 0;
 }
+
+.profil-descri {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.profil-name {
+    color: #C2E6FF;
+    font-size: 22px;
+    margin-left: 10px;
+    font-weight: 900;
+}
+
+.profil-competence {
+    color: #C2E6FF;
+    font-size: 32px;
+    font-weight: 400;
+    font-style: italic;
+}
+.competence-descri {
+    color: #C2E6FF;
+    text-wrap: balance;
+}
