@@ -1,0 +1,55 @@
+*,::after,::before {
+    box-sizing: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.skills-section {
+    margin-top: 8vh;
+}
+
+.skills-section-title {
+    color: #C2E6FF;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.skill-intro {
+    color: #C2E6FF;
+    margin-bottom: 25px;
+}
+
+.container-skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #205D9E;
+    height: 23vh;
+}
+
+.logo-react {
+    width: 80px;
+}
+
+.logo-boostrap {
+    width: 80px;
+}
+
+.logo-php {
+    width: 100px;
+}
+
+.logo-mysql {
+    width: 100px;
+}
+
+.skill-name {
+    color: #C2E6FF;
+    font-weight: 600;
+    font-size: 20px;
+    align-self: flex-start;
+}
+
+.skill-descri {
+    color: #C2E6FF;
+}

@@ -8,6 +8,10 @@
     background-color: #111927;
   }
 
+  .nav-item {
+    text-align: center;
+  }
+
   .nav-link {
     color: #C2E6FF
   }
