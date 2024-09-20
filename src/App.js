@@ -3,6 +3,7 @@ import './App.css';
 import NavBar from './Components/NavBar';
 import ProfilDescri from './Components/ProfilDescri';
 import Competencies from './Components/Competencies';
+import Projects from './Components/Projects';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className='container-sections container'>
         <NavBar />
         <ProfilDescri/>
+        <Projects/>
         <Competencies />
       </div>
     </div>

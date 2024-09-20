@@ -1,0 +1,80 @@
+*,::after,::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.projects-section-title {
+    color: #C2E6FF;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.project-section-descri {
+    color: #C2E6FF;
+}
+
+.carousel.slide {
+    width: 80%;
+    margin: auto;
+}
+
+.custom-spacing {
+    display: flex;
+    justify-content: space-around;
+    height: 18vh;
+}
+
+.carousel-item-child {
+    width: 45%;
+    border: 1px solid #205D9E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    height: 30px;
+    box-shadow: 0px 0px 8px #2870BD;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.carousel-control-prev {
+    left: -10%;
+}
+
+.carousel-control-next {
+    right: -10%;
+}
+
+.arrows {
+    width: 15px;
+}
+
+.project-name {
+    color: #C2E6FF;
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.project-descri {
+    color: #C2E6FF;
+}
+
+@media screen  and (max-width:425px) {
+    .carousel-item-child {
+        width: 80%;
+    }
+}
+
+
+
