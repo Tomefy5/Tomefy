@@ -10,7 +10,7 @@ function Competencies() {
         <div className='skills-section container-fluid p-2'>
             <h2 className='skills-section-title'>What I can do?</h2>
             <p className='skill-intro'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
-            <div className='container mt-3'>
+            <div className='container mt-5'>
                 <div className='row g-3'>
                     <div className='col-12 col-md-6'>
                         <div className='container-skill p-3 rounded'>

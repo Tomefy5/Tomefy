@@ -1,0 +1,44 @@
+*,::after,::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-title {
+    color: #C2E6FF;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.contact-descri {
+    color: #C2E6FF;
+    margin-bottom: 25px;
+}
+
+
+.social-media-logo {
+    width: 28px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.social-media-logo-facebook {
+    box-shadow: 0px 0px 10px #1877F2;
+}
+
+.social-media-logo-github {
+    box-shadow: 0px 0px 10px white;
+}
+
+.social-media-logo-linkedin {
+    box-shadow: 0px 0px 10px #0A66C2;
+}
+
+.social-media-logo-gmail {
+    box-shadow: 0px 0px 10px #EA4335;
+}
+
+.email {
+    color: #C2E6FF;
+    font-style: italic;
+}

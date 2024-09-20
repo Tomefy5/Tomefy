@@ -5,9 +5,9 @@ import arrowRight from "../Assets/small_icons/arrow-rigth.svg"
 
 function Projects() {
     return (
-        <div className="mt-5 mb-4 container-fluid">
+        <div className="mt-5 mb-5 container-fluid">
             <h2 className="projects-section-title">My Projects</h2>
-            <p className="project-section-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+            <p className="project-section-descri mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
             {/* carousel of projects */}
             <div id="carouselProjects" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner p-2">

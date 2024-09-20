@@ -4,7 +4,7 @@ import profil from '../Assets/profil_tomefy.png'
 
 function ProfilDescri() {
     return (
-        <div className="container-fluid mt-5">
+        <div className="container-fluid mt-5 mb-5">
             <div className="profil-descri container-fluid">
                 <img src={profil} alt="photo profil" style={{ width: '50px' }} />
                 <h2 className="profil-name">Tomefy Andry Tsiresy</h2>

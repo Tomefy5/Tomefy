@@ -4,6 +4,7 @@ import NavBar from './Components/NavBar';
 import ProfilDescri from './Components/ProfilDescri';
 import Competencies from './Components/Competencies';
 import Projects from './Components/Projects';
+import Contact from './Components/Contact';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <ProfilDescri/>
         <Projects/>
         <Competencies />
+        <Contact/>
       </div>
     </div>
   );

@@ -24,7 +24,7 @@
     flex-direction: column;
     align-items: center;
     border: 1px solid #205D9E;
-    height: 23vh;
+    height: 27vh;
 }
 
 .logo-react {
@@ -52,4 +52,10 @@
 
 .skill-descri {
     color: #C2E6FF;
+}
+
+@media screen and (max-width: 425px) {
+    .container-skill {
+        height: 26vh;
+    }
 }
