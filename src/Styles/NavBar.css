@@ -1,0 +1,29 @@
+*,::after,::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar {
+    background-color: #111927;
+  }
+
+  .nav-link {
+    color: #C2E6FF
+  }
+
+  .nav-link:hover {
+    color: #70B8FF;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url('../Assets/navbar-toggler.svg');
+  }
+
+  .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1); /* Couleur de la bordure du bouton */
+}
+
+  button {
+    background-color: antiquewhite;
+  }
