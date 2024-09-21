@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tomefy/static/css/main.78438983.css",
-    "main.js": "/Tomefy/static/js/main.ac585fc9.js",
+    "main.js": "/Tomefy/static/js/main.45deee0e.js",
     "static/js/453.660beb0d.chunk.js": "/Tomefy/static/js/453.660beb0d.chunk.js",
     "static/media/profil_tomefy.png": "/Tomefy/static/media/profil_tomefy.6257831e8c8d0470701c.png",
     "static/media/logo_tomefy.png": "/Tomefy/static/media/logo_tomefy.ccaa2deac17109d232af.png",
@@ -18,11 +18,11 @@
     "static/media/arrow-rigth.svg": "/Tomefy/static/media/arrow-rigth.abb8465f6b3c769aa61dfba7692e2bd6.svg",
     "static/media/navbar-toggler.svg": "/Tomefy/static/media/navbar-toggler.c5675e6750d4b59d4564.svg",
     "main.78438983.css.map": "/Tomefy/static/css/main.78438983.css.map",
-    "main.ac585fc9.js.map": "/Tomefy/static/js/main.ac585fc9.js.map",
+    "main.45deee0e.js.map": "/Tomefy/static/js/main.45deee0e.js.map",
     "453.660beb0d.chunk.js.map": "/Tomefy/static/js/453.660beb0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78438983.css",
-    "static/js/main.ac585fc9.js"
+    "static/js/main.45deee0e.js"
   ]
 }
