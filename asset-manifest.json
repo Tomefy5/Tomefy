@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Tomefy/static/css/main.78438983.css",
-    "main.js": "/Tomefy/static/js/main.d2e71fbf.js",
-    "static/js/453.660beb0d.chunk.js": "/Tomefy/static/js/453.660beb0d.chunk.js",
-    "static/media/profil_tomefy.png": "/Tomefy/static/media/profil_tomefy.6257831e8c8d0470701c.png",
-    "static/media/logo_tomefy.png": "/Tomefy/static/media/logo_tomefy.ccaa2deac17109d232af.png",
-    "static/media/mysql.svg": "/Tomefy/static/media/mysql.51646c0d3b6858b37120a59b6dca8e06.svg",
-    "static/media/react.svg": "/Tomefy/static/media/react.ad3584227377364e34ffafbea6d7fe88.svg",
-    "static/media/php.svg": "/Tomefy/static/media/php.33533e4a1c224552da9a5f1b69301d84.svg",
-    "index.html": "/Tomefy/index.html",
-    "static/media/bootstrap.svg": "/Tomefy/static/media/bootstrap.544dc71e5b39f7c3e4359e93cee28b9d.svg",
-    "static/media/github.svg": "/Tomefy/static/media/github.a882795a1493f3adfcc1c7b4f32b7c69.svg",
-    "static/media/linkedin.svg": "/Tomefy/static/media/linkedin.8d07d1a4602facca8e43f594949a8c49.svg",
-    "static/media/facebook.svg": "/Tomefy/static/media/facebook.00afcc2688cdbc6c98f3627e44f86103.svg",
-    "static/media/gmail.svg": "/Tomefy/static/media/gmail.9ea38dbd2bbd43ddca5660b92f0f57fa.svg",
-    "static/media/arrow-left.svg": "/Tomefy/static/media/arrow-left.431fb13dffe98e221d7248e6fbc5c0ec.svg",
-    "static/media/arrow-rigth.svg": "/Tomefy/static/media/arrow-rigth.abb8465f6b3c769aa61dfba7692e2bd6.svg",
-    "static/media/navbar-toggler.svg": "/Tomefy/static/media/navbar-toggler.c5675e6750d4b59d4564.svg",
-    "main.78438983.css.map": "/Tomefy/static/css/main.78438983.css.map",
-    "main.d2e71fbf.js.map": "/Tomefy/static/js/main.d2e71fbf.js.map",
-    "453.660beb0d.chunk.js.map": "/Tomefy/static/js/453.660beb0d.chunk.js.map"
+    "main.css": "/Tomefy/home/static/css/main.859ac22e.css",
+    "main.js": "/Tomefy/home/static/js/main.2978c0fb.js",
+    "static/js/453.660beb0d.chunk.js": "/Tomefy/home/static/js/453.660beb0d.chunk.js",
+    "static/media/profil_tomefy.png": "/Tomefy/home/static/media/profil_tomefy.6257831e8c8d0470701c.png",
+    "static/media/logo_tomefy.png": "/Tomefy/home/static/media/logo_tomefy.ccaa2deac17109d232af.png",
+    "static/media/mysql.svg": "/Tomefy/home/static/media/mysql.51646c0d3b6858b37120a59b6dca8e06.svg",
+    "static/media/react.svg": "/Tomefy/home/static/media/react.ad3584227377364e34ffafbea6d7fe88.svg",
+    "static/media/php.svg": "/Tomefy/home/static/media/php.33533e4a1c224552da9a5f1b69301d84.svg",
+    "index.html": "/Tomefy/home/index.html",
+    "static/media/bootstrap.svg": "/Tomefy/home/static/media/bootstrap.544dc71e5b39f7c3e4359e93cee28b9d.svg",
+    "static/media/github.svg": "/Tomefy/home/static/media/github.a882795a1493f3adfcc1c7b4f32b7c69.svg",
+    "static/media/linkedin.svg": "/Tomefy/home/static/media/linkedin.8d07d1a4602facca8e43f594949a8c49.svg",
+    "static/media/facebook.svg": "/Tomefy/home/static/media/facebook.00afcc2688cdbc6c98f3627e44f86103.svg",
+    "static/media/gmail.svg": "/Tomefy/home/static/media/gmail.9ea38dbd2bbd43ddca5660b92f0f57fa.svg",
+    "static/media/arrow-left.svg": "/Tomefy/home/static/media/arrow-left.431fb13dffe98e221d7248e6fbc5c0ec.svg",
+    "static/media/arrow-rigth.svg": "/Tomefy/home/static/media/arrow-rigth.abb8465f6b3c769aa61dfba7692e2bd6.svg",
+    "static/media/navbar-toggler.svg": "/Tomefy/home/static/media/navbar-toggler.c5675e6750d4b59d4564.svg",
+    "main.859ac22e.css.map": "/Tomefy/home/static/css/main.859ac22e.css.map",
+    "main.2978c0fb.js.map": "/Tomefy/home/static/js/main.2978c0fb.js.map",
+    "453.660beb0d.chunk.js.map": "/Tomefy/home/static/js/453.660beb0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78438983.css",
-    "static/js/main.d2e71fbf.js"
+    "static/css/main.859ac22e.css",
+    "static/js/main.2978c0fb.js"
   ]
 }
