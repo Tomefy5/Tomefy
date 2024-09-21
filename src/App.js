@@ -12,7 +12,7 @@ function App() {
       <div className='container-sections container'>
         <NavBar />
         <Routes>
-          <Route path='/' element={<Home/>}/>
+          <Route path='/home' element={<Home/>}/>
           <Route path='/tools' element={<Tools />}/>
           <Route path='/formations' element={<Formations/>}/>
         </Routes>
