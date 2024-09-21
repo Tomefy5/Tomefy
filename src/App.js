@@ -1,4 +1,4 @@
-import './bootstrap-5.3.3-dist/css/bootstrap.min.css';
+// import './bootstrap-5.3.3-dist/css/bootstrap.min.css';
 import './App.css';
 import NavBar from './Components/NavBar';
 import Home from './Components/Home';
