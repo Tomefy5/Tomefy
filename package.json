@@ -2,7 +2,7 @@
   "name": "reference",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tomefy5.github.io/Tomefy",
+  "homepage": "https://Tomefy5.github.io/Tomefy/home",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

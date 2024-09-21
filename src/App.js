@@ -8,7 +8,7 @@ import Formations from './Components/Formations';
 
 function App() {
   return (
-    <div className="App ">
+    <div className="App ">  
       <div className='container-sections container'>
         <NavBar />
         <Routes>
