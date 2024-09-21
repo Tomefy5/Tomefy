@@ -16,6 +16,10 @@
     color: #C2E6FF
   }
 
+  .nav-link:focus {
+    color: #2870BD;
+  }
+
   .nav-link:hover {
     color: #70B8FF;
   }

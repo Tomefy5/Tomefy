@@ -1,14 +1,11 @@
 import React from "react";
 import '../Styles/ProfilDescri.css'
-import profil from '../Assets/profil_tomefy.png'
+import Profil from "./Profil";
 
 function ProfilDescri() {
     return (
         <div className="container-fluid mt-5 mb-5">
-            <div className="profil-descri container-fluid">
-                <img src={profil} alt="photo profil" style={{ width: '50px' }} />
-                <h2 className="profil-name">Tomefy Andry Tsiresy</h2>
-            </div>
+            <Profil/>
             <div className="container-fluid p-2 mt-3">
                 <h1 className="profil-competence">Web Developer</h1>
                 <p className="competence-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam, eveniet veritatis labore facilis minus 

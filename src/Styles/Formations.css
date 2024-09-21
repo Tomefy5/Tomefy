@@ -1,0 +1,55 @@
+*,::after,::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.formation-title {
+    color: #C2E6FF;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.formation {
+    background-color: #0D1520;
+    box-shadow: 0px 0px 10px #205D9E;
+    padding: 10px;
+}
+
+.card-header {
+    color: #C2E6FF;
+    font-weight: 800;
+    font-size: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.card-title {
+    color: #104D87;
+}
+
+.card-text {
+    color: #C2E6FF;
+}
+
+.container-logo {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    box-shadow: 0px 0px 5px #C2E6FF;
+    background-position: center;
+    background-size: cover;
+}
+
+.container-logo-misa {
+    background-image: url(../Assets/Formations/misa.png);
+}
+
+.container-logo-sayna {
+    background-image: url(../Assets/Formations/sayna2.png);
+}
+
+.container-logo-udemy {
+    background-image: url(../Assets/Formations/udemy.png);
+}

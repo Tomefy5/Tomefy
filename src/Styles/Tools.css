@@ -1,0 +1,30 @@
+*,::after,::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.tools {
+    height: 100%;
+}
+
+.tools-title {
+    color: #C2E6FF;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.tool-skill-title {
+    color: #C2E6FF;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.list-group-item {
+    background-color: #3B9EFF;
+}
+
+li {
+    color: #C2E6FF;
+    font-size: 18px;
+}

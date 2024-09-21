@@ -19,7 +19,7 @@ function Projects() {
                             </a>
                         </div>
                     </div>
-                    <div className="carousel-item active">
+                    <div className="carousel-item">
                         <div className="row custom-spacing">
                             <a href="./" className="carousel-item-child col-6 rounded">
                                 <h3 className="project-name">Slide 2</h3>
