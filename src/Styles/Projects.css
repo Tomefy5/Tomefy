@@ -36,6 +36,12 @@
     text-decoration: none;
 }
 
+.carousel-item-child:hover {
+    justify-content: center;
+    flex-direction: row;
+    gap: 6px;
+}
+
 .carousel-control-prev,
 .carousel-control-next {
     position: absolute;
@@ -66,8 +72,28 @@
     font-size: 23px;
 }
 
+.carousel-item-child:hover .project-name {
+    opacity: 0;
+    display: none;
+}
+
 .project-descri {
     color: #C2E6FF;
+}
+
+.carousel-item-child:hover .project-descri{
+    opacity: 0;
+    display: none;
+}
+
+.badge {
+    background-color: #004074;
+    opacity: 0;
+    transition: opacity 0.5s forwards ease;
+}
+
+.carousel-item-child:hover .badge {
+    opacity: 1;
 }
 
 @media screen  and (max-width:425px) {

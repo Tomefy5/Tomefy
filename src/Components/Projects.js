@@ -7,39 +7,51 @@ function Projects() {
     return (
         <div className="mt-5 mb-5 container-fluid">
             <h2 className="projects-section-title">My Projects</h2>
-            <p className="project-section-descri mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+            <p className="project-section-descri mb-4">Explore my journey through code and creativity</p>
             {/* carousel of projects */}
             <div id="carouselProjects" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner p-2">
                     <div className="carousel-item active">
                         <div className="row custom-spacing">
                             <a href="./" className="carousel-item-child col-6 rounded">
-                                <h3 className="project-name">Slide 1</h3>
-                                <p className="project-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+                                <h3 className="project-name">Project 1</h3>
+                                <p className="project-descri">In progress...</p>
+                                <div className="badge">React</div>
+                                <div className="badge">Html</div>
+                                <div className="badge">Boostrap</div>
                             </a>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <div className="row custom-spacing">
                             <a href="./" className="carousel-item-child col-6 rounded">
-                                <h3 className="project-name">Slide 2</h3>
-                                <p className="project-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+                                <h3 className="project-name">Project 2</h3>
+                                <p className="project-descri">In progress...</p>
+                                <div className="badge">React</div>
+                                <div className="badge">Html</div>
+                                <div className="badge">Boostrap</div>
                             </a>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <div className="row custom-spacing">
                             <a href="./" className="carousel-item-child col-6 rounded">
-                                <h3 className="project-name">Slide 3</h3>
-                                <p className="project-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+                                <h3 className="project-name">Project 3</h3>
+                                <p className="project-descri">In progress...</p>
+                                <div className="badge">React</div>
+                                <div className="badge">Html</div>
+                                <div className="badge">Boostrap</div>
                             </a>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <div className="row custom-spacing">
                             <a href="./" className="carousel-item-child col-6 rounded">
-                                <h3 className="project-name">Slide 4</h3>
-                                <p className="project-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+                                <h3 className="project-name">Project 4</h3>
+                                <p className="project-descri">In progress...</p>
+                                <div className="badge">React</div>
+                                <div className="badge">Html</div>
+                                <div className="badge">Boostrap</div>
                             </a>
                         </div>
                     </div>

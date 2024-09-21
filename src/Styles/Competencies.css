@@ -24,7 +24,7 @@
     flex-direction: column;
     align-items: center;
     border: 1px solid #205D9E;
-    height: 27vh;
+    height: 30vh;
 }
 
 .logo-react {
@@ -56,6 +56,12 @@
 
 @media screen and (max-width: 425px) {
     .container-skill {
-        height: 26vh;
+        height: 35vh;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container-skill {
+        height: 40vh;
     }
 }

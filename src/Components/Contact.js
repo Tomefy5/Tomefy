@@ -9,7 +9,7 @@ function Contact() {
     return (
         <div className="container-fluid mt-5 pb-5">
             <h2 className="contact-title">Contact me</h2>
-            <p className="contact-descri">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam</p>
+            <p className="contact-descri">I’d love to hear from you! Whether you have questions, collaboration ideas, or just want to connect, feel free to reach out!</p>
             <div className="container-social-media container-fluid">
                 <a href="./"><img className="social-media-logo social-media-logo-github" src={github} alt="logo github" /></a>
                 <a href="./"><img className="social-media-logo social-media-logo-facebook" src={facebook} alt="logo facebook" /></a>
