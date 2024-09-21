@@ -25,7 +25,7 @@ function NavBar() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item active">
-                            <Link to={'/'} className="nav-link">Home</Link>
+                            <Link to={'/Tomefy'} className="nav-link">Home</Link>
                         </li>
                         <li className="nav-item">
                             <Link to={'/tools'} className="nav-link">Tools</Link>
