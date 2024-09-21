@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tomefy/static/css/main.28dbc2ca.css",
-    "main.js": "/Tomefy/static/js/main.95088d37.js",
+    "main.css": "/Tomefy/static/css/main.78438983.css",
+    "main.js": "/Tomefy/static/js/main.d2e71fbf.js",
     "static/js/453.660beb0d.chunk.js": "/Tomefy/static/js/453.660beb0d.chunk.js",
     "static/media/profil_tomefy.png": "/Tomefy/static/media/profil_tomefy.6257831e8c8d0470701c.png",
     "static/media/logo_tomefy.png": "/Tomefy/static/media/logo_tomefy.ccaa2deac17109d232af.png",
@@ -17,12 +17,12 @@
     "static/media/arrow-left.svg": "/Tomefy/static/media/arrow-left.431fb13dffe98e221d7248e6fbc5c0ec.svg",
     "static/media/arrow-rigth.svg": "/Tomefy/static/media/arrow-rigth.abb8465f6b3c769aa61dfba7692e2bd6.svg",
     "static/media/navbar-toggler.svg": "/Tomefy/static/media/navbar-toggler.c5675e6750d4b59d4564.svg",
-    "main.28dbc2ca.css.map": "/Tomefy/static/css/main.28dbc2ca.css.map",
-    "main.95088d37.js.map": "/Tomefy/static/js/main.95088d37.js.map",
+    "main.78438983.css.map": "/Tomefy/static/css/main.78438983.css.map",
+    "main.d2e71fbf.js.map": "/Tomefy/static/js/main.d2e71fbf.js.map",
     "453.660beb0d.chunk.js.map": "/Tomefy/static/js/453.660beb0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28dbc2ca.css",
-    "static/js/main.95088d37.js"
+    "static/css/main.78438983.css",
+    "static/js/main.d2e71fbf.js"
   ]
 }
